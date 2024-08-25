@@ -1,0 +1,8 @@
+# design sources
+#./rtl/fir.v
+#./rtl/fir_direct_pipe.v
+./rtl/fir_trans.v
+
+
+
+

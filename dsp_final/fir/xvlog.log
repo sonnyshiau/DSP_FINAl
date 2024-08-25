@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ubuntu/dspic_final_submit/dsp_final/fir/rtl/fir_trans.v" into library work
+INFO: [VRFC 10-311] analyzing module fir_trans
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ubuntu/dspic_final_submit/dsp_final/fir/tb/fir_trans_tb.v" into library work
+INFO: [VRFC 10-311] analyzing module fir_trans_tb

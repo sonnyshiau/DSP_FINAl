@@ -1,0 +1,15 @@
+Vivado Simulator v2022.1
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: /tools/Xilinx/Vivado/2022.1/bin/unwrapped/lnx64.o/xelab -top fir_trans_tb -snapshot fir_trans_tb_elab 
+Multi-threading is on. Using 4 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module work.fir_trans
+Compiling module work.fir_trans_tb
+WARNING: [XSIM 43-3373] "/home/ubuntu/dspic_final_submit/dsp_final/fir/tb/fir_trans_tb.v" Line 51. System function $fscanf is used as system task. This system function should have a LHS e.g. x=$fscanf().
+WARNING: [XSIM 43-3373] "/home/ubuntu/dspic_final_submit/dsp_final/fir/tb/fir_trans_tb.v" Line 52. System function $fscanf is used as system task. This system function should have a LHS e.g. x=$fscanf().
+Built simulation snapshot fir_trans_tb_elab
